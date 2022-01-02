@@ -1,13 +1,13 @@
 # Frontend Mentor - Tip calculator app solution
 
-:point_right: This is the [Tip calculator app](aqui va el reto de frontendmentor) challenge on Frontend Mentor.
+:point_right: This is the [Tip calculator app](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](Aqui va tu solucion de frontendmentor) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](Aqui va tu solucion de github pages)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-mF471OKLd) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm16_tip_calculator_app/)
 
 Give a ⭐️ if you like this project!
 
